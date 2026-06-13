@@ -1,0 +1,20 @@
+# Credenciales y sesion - NUNCA subir al repo
+.env
+session_state.json
+
+# Resultados y estado en runtime
+output/
+progress.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Debug
+output/error_screenshot.png
+output/debug_html.txt
+output/debug_search.png
+
+# Claude
+.claude/
